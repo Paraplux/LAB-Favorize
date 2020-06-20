@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1018941185003",
+    "firebase_url": "https://favorize-ba0ad.firebaseio.com",
+    "project_id": "favorize-ba0ad",
+    "storage_bucket": "favorize-ba0ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018941185003:android:f71bbb9766dc2fba3e17ae",
+        "android_client_info": {
+          "package_name": "com.marcbouchez.favorize"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018941185003-gjjc679rvud8cfr753qrfoq7boojldgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-cPQWme_TtdYu7BWZkwaCO4xR_n8WHJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018941185003-gjjc679rvud8cfr753qrfoq7boojldgd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
