@@ -5,17 +5,16 @@
     "name": "Favorize",
     "slug": "Favorize",
     "privacy": "unlisted",
-    "sdkVersion": "36.0.0",
     "version": "1.0.0",
     "entryPoint": "node_modules/expo/AppEntry.js",
     "ios": {
-        "bundleIdentifier": "com.marcbouchez.favorize",
-        "buildNumber": "1.0.0"
-      },
-      "android": {
-        "package": "com.marcbouchez.favorize",
-        "versionCode": 1
-      },
+      "bundleIdentifier": "com.marcbouchez.favorize",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.marcbouchez.favorize",
+      "versionCode": 1
+    },
     "platforms": [
       "ios",
       "android",
