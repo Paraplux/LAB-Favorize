@@ -25,7 +25,7 @@ function toggleFavorite(state = initialState, action) {
             }
         } else {
             // No user is signed in.
-            console.log("nope")
+            console.log("No user signed in")
         }
     })
 
